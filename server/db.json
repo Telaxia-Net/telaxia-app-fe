@@ -1,0 +1,342 @@
+{
+  "designs": [
+    {
+      "id": 1,
+      "name": "Indu Magic",
+      "price": 200,
+      "image": "https://raw.githubusercontent.com/Fabrizio-2025/image-store/main/post-images/post-image-1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Shoulder Jackson",
+      "price": 220,
+      "image": "https://raw.githubusercontent.com/Fabrizio-2025/image-store/main/post-images/post-image-2.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "Row",
+      "price": 99.9,
+      "image": "https://raw.githubusercontent.com/Fabrizio-2025/image-store/main/post-images/post-image-3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Polar",
+      "price": 123.88,
+      "image": "https://raw.githubusercontent.com/Fabrizio-2025/image-store/main/post-images/post-image-4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Wisp",
+      "price": 123.88,
+      "image": "https://i.picsum.photos/id/1035/5854/3903.jpg?hmac=DV0AS2MyjW6ddofvSIU9TVjj1kewfh7J3WEOvflY8TM"
+    },
+    {
+      "id": 6,
+      "name": "Raijin Dope",
+      "price": 123.88,
+      "image": "https://i.picsum.photos/id/0/5616/3744.jpg?hmac=3GAAioiQziMGEtLbfrdbcoenXoWAW-zlyEAMkfEdBzQ"
+    },
+    {
+      "id": 7,
+      "name": "a design tho",
+      "price": 123.88,
+      "image": "https://i.picsum.photos/id/103/2592/1936.jpg?hmac=aC1FT3vX9bCVMIT-KXjHLhP6vImAcsyGCH49vVkAjPQ"
+    }
+  ],
+  "posts-designer": [
+    {
+      "id": 1,
+      "title": "Boring",
+      "description": "Making great things today!",
+      "image": "https://raw.githubusercontent.com/Fabrizio-2025/image-store/main/post-images/post-image-1.jpg",
+      "section": "favorites",
+      "userId": 3,
+      "designId": 1
+    },
+    {
+      "id": 2,
+      "title": "Boring",
+      "description": "My greatest design",
+      "image": "https://raw.githubusercontent.com/Fabrizio-2025/image-store/main/post-images/post-image-2.jpeg",
+      "section": "favorites",
+      "userId": 2,
+      "designId": 2
+    },
+    {
+      "id": 3,
+      "title": "Amazing!",
+      "description": "A cutie!",
+      "image": "https://raw.githubusercontent.com/Fabrizio-2025/image-store/main/post-images/post-image-3.jpg",
+      "section": "favorites",
+      "userId": 2,
+      "designId": 3
+    },
+    {
+      "id": 4,
+      "title": "Boring",
+      "description": "Boring!!!!",
+      "image": "https://raw.githubusercontent.com/Fabrizio-2025/image-store/main/post-images/post-image-4.jpg",
+      "section": "favorites",
+      "userId": 1,
+      "designId": 4
+    },
+    {
+      "id": 5,
+      "title": "Boring",
+      "description": "Boring!!!!",
+      "image": "https://i.picsum.photos/id/1035/5854/3903.jpg?hmac=DV0AS2MyjW6ddofvSIU9TVjj1kewfh7J3WEOvflY8TM",
+      "section": "favorites",
+      "userId": 1,
+      "designId": 5
+    },
+    {
+      "id": 6,
+      "title": "Boring",
+      "description": "Boring!!!!",
+      "image": "https://i.picsum.photos/id/0/5616/3744.jpg?hmac=3GAAioiQziMGEtLbfrdbcoenXoWAW-zlyEAMkfEdBzQ",
+      "section": "favorites",
+      "userId": 1,
+      "designId": 6
+    },
+    {
+      "id": 7,
+      "title": "Boring",
+      "description": "Boring!!!!",
+      "image": "https://i.picsum.photos/id/103/2592/1936.jpg?hmac=aC1FT3vX9bCVMIT-KXjHLhP6vImAcsyGCH49vVkAjPQ",
+      "section": "favorites",
+      "userId": 1,
+      "designId": 7
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "userId": 2,
+      "body": "some comment",
+      "postId": 1,
+      "date": "2022-05-09T05:00:00.000Z"
+    },
+    {
+      "id": 2,
+      "userId": 1,
+      "body": "some comment",
+      "postId": 2,
+      "date": "2022-05-09T05:00:00.000Z"
+    },
+    {
+      "id": 3,
+      "userId": 2,
+      "body": "some comment",
+      "postId": 2,
+      "date": "2022-05-09T05:00:00.000Z"
+    },
+    {
+      "id": 4,
+      "userId": 3,
+      "body": "some comment",
+      "postId": 3,
+      "date": "2022-05-09T05:00:00.000Z"
+    },
+    {
+      "id": 5,
+      "userId": 3,
+      "body": "some comment",
+      "postId": 3,
+      "date": "2022-05-09T05:00:00.000Z"
+    },
+    {
+      "id": 6,
+      "userId": 1,
+      "body": "some comment",
+      "postId": 1,
+      "date": "2022-05-09T05:00:00.000Z"
+    },
+    {
+      "id": 7,
+      "userId": 2,
+      "body": "some comment",
+      "postId": 5,
+      "date": "2022-05-09T05:00:00.000Z"
+    },
+    {
+      "id": 8,
+      "userId": 1,
+      "body": "some comment",
+      "postId": 4,
+      "date": "2022-05-09T05:00:00.000Z"
+    },
+    {
+      "id": 9,
+      "userId": 1,
+      "body": "some comment",
+      "postId": 7,
+      "date": "2022-05-09T05:00:00.000Z"
+    },
+    {
+      "userId": 3,
+      "body": "Amazing!",
+      "postId": 5,
+      "id": 10,
+      "date": "2022-05-09T05:00:00.000Z"
+    },
+    {
+      "userId": 3,
+      "body": "Hola! Mucho gusto, me gustaria saber cuanto cobra ps",
+      "postId": 2,
+      "date": "2022-06-04T22:44:55.210Z",
+      "id": 11
+    },
+    {
+      "userId": 3,
+      "body": "hey",
+      "postId": 2,
+      "date": "2022-06-04T22:48:00.378Z",
+      "id": 12
+    },
+    {
+      "userId": 3,
+      "body": "Responda!",
+      "postId": 2,
+      "date": "2022-06-04T22:48:25.594Z",
+      "id": 13
+    },
+    {
+      "userId": 3,
+      "body": "Cute!",
+      "postId": 3,
+      "date": "2022-06-04T22:48:45.242Z",
+      "id": 14
+    },
+    {
+      "userId": 3,
+      "body": "Perra\n",
+      "postId": 5,
+      "date": "2022-06-05T19:59:01.075Z",
+      "id": 15
+    },
+    {
+      "userId": 3,
+      "body": "xd\n",
+      "postId": 5,
+      "date": "2022-06-05T19:59:11.755Z",
+      "id": 16
+    },
+    {
+      "userId": 3,
+      "body": "prezio?",
+      "postId": 5,
+      "date": "2022-06-05T19:59:25.051Z",
+      "id": 17
+    },
+    {
+      "userId": 3,
+      "body": "Fabrizio es bueno",
+      "postId": 2,
+      "date": "2022-06-06T21:40:02.154Z",
+      "id": 18
+    },
+    {
+      "userId": 3,
+      "body": "Hola",
+      "postId": 1,
+      "date": "2022-06-07T21:12:44.910Z",
+      "id": 19
+    },
+    {
+      "userId": 3,
+      "body": "xd",
+      "postId": 1,
+      "date": "2022-06-07T21:12:54.366Z",
+      "id": 20
+    },
+    {
+      "userId": 3,
+      "body": "xd",
+      "postId": 1,
+      "date": "2022-06-07T21:12:57.030Z",
+      "id": 21
+    },
+    {
+      "userId": 3,
+      "body": "hi",
+      "postId": 3,
+      "date": "2022-06-08T02:31:29.850Z",
+      "id": 22
+    }
+  ],
+  "designers": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john.doe@gmail.com",
+      "photo": "https://raw.githubusercontent.com/Fabrizio-2025/image-store/main/users-images/jenny_walters.jpg",
+      "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation"
+    },
+    {
+      "id": 2,
+      "name": "Jackson Row",
+      "email": "admin@gmail.com",
+      "photo": "https://raw.githubusercontent.com/Fabrizio-2025/image-store/main/users-images/admin.jpg",
+      "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation"
+    },
+    {
+      "id": 3,
+      "name": "Leonardo Grau",
+      "email": "leonardo.grau@outlook.com.pe",
+      "photo": "https://raw.githubusercontent.com/Fabrizio-2025/image-store/main/users-images/leojavar.JPG",
+      "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation"
+    }
+  ],
+  "buyers": [
+    {
+      "id": 4,
+      "name": "John Doe",
+      "email": "john.doe@gmail.com",
+      "photo": "https://raw.githubusercontent.com/Fabrizio-2025/image-store/main/users-images/jenny_walters.jpg",
+      "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation",
+      "publicContacts": [
+        1,
+        2,
+        3
+      ]
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "users": [
+    {
+      "email": "john.doe@gmail.com",
+      "password": "$2a$10$NXUxvEmH1d7t190tU3D/2OwIWDcD/agHkE07J4iJ1U1cDrzNdOdqe",
+      "name": "Pierina Ramos",
+      "date": "1999-05-09T05:00:00.000Z",
+      "country": {
+        "name": "Peru",
+        "code": "PE"
+      },
+      "id": 1
+    },
+    {
+      "email": "admin@gmail.com",
+      "password": "$2a$10$0X1ffjD.i/zmza3yK2ZHq.7sMYo29tIvK/fhBMH0kXWEFvynVbGO2",
+      "name": "Robert Vim",
+      "date": "1999-05-09T05:00:00.000Z",
+      "country": {
+        "name": "Peru",
+        "code": "PE"
+      },
+      "id": 2
+    },
+    {
+      "email": "leonardo.grau@outlook.com.pe",
+      "password": "$2a$10$lioNhAFa2pGzDaeE4HIZguhGspDpqdzfqXyUd40nsPnzTVUV5Sf2u",
+      "name": "Leonardo Grau",
+      "date": "2000-01-22T05:00:00.000Z",
+      "country": {
+        "name": "Peru",
+        "code": "PE"
+      },
+      "id": 3
+    }
+  ]
+}
